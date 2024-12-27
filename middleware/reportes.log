@@ -1,0 +1,2 @@
+[2024-12-27T12:07:15.804Z] Ruta consultada: GET /joyas?limits=3&page=2&order_by=stock_ASC
+[2024-12-27T12:08:13.685Z] Ruta consultada: GET /joyas/filtros?precio_min=25000&precio_max=30000&categoria=aros&metal=plata
